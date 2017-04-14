@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="LZTest">83a876ba4f86320025b0b3728110c76c</application>
+        <filter/>
+        <name>LZTest Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_11004_lztest.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-14 18:38:24</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>87a876ba4f86320025b0b3728110c76e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LZTest Table</sys_name>
+        <sys_package display_value="LZTest" source="x_11004_lztest">52a8f63a4f86320025b0b3728110c754</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="LZTest">52a8f63a4f86320025b0b3728110c754</sys_scope>
+        <sys_update_name>sys_ui_module_87a876ba4f86320025b0b3728110c76e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-14 18:38:24</sys_updated_on>
+        <table>x_11004_lztest_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
