@@ -4,47 +4,62 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_11004_lztest_table" element="NULL" name="x_11004_lztest_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7f8c3e3e4f86320025b0b3728110c7bc</list_id>
+            <list_id display_value="x_11004_lztest_table" element="NULL" name="x_11004_lztest_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4edf32fe4f86320025b0b3728110c707</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-14 18:55:24</sys_created_on>
-            <sys_id>b38c3e3e4f86320025b0b3728110c7bd</sys_id>
+            <sys_created_on>2017-04-14 19:09:44</sys_created_on>
+            <sys_id>4adf32fe4f86320025b0b3728110c708</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-14 18:55:24</sys_updated_on>
+            <sys_updated_on>2017-04-14 19:09:44</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>dept</element>
-            <list_id display_value="x_11004_lztest_table" element="NULL" name="x_11004_lztest_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7f8c3e3e4f86320025b0b3728110c7bc</list_id>
+            <list_id display_value="x_11004_lztest_table" element="NULL" name="x_11004_lztest_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4edf32fe4f86320025b0b3728110c707</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-14 18:55:24</sys_created_on>
-            <sys_id>378c3e3e4f86320025b0b3728110c7bd</sys_id>
+            <sys_created_on>2017-04-14 19:09:44</sys_created_on>
+            <sys_id>02df32fe4f86320025b0b3728110c709</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-14 18:55:24</sys_updated_on>
+            <sys_updated_on>2017-04-14 19:09:44</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>description</element>
-            <list_id display_value="x_11004_lztest_table" element="NULL" name="x_11004_lztest_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7f8c3e3e4f86320025b0b3728110c7bc</list_id>
+            <list_id display_value="x_11004_lztest_table" element="NULL" name="x_11004_lztest_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4edf32fe4f86320025b0b3728110c707</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-14 18:55:24</sys_created_on>
-            <sys_id>b78c3e3e4f86320025b0b3728110c7bd</sys_id>
+            <sys_created_on>2017-04-14 19:09:44</sys_created_on>
+            <sys_id>82df32fe4f86320025b0b3728110c709</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-14 18:55:24</sys_updated_on>
+            <sys_updated_on>2017-04-14 19:09:44</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>age</element>
+            <list_id display_value="x_11004_lztest_table" element="NULL" name="x_11004_lztest_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">4edf32fe4f86320025b0b3728110c707</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-14 19:09:44</sys_created_on>
+            <sys_id>c2dfb2fe4f86320025b0b3728110c7ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-14 19:09:44</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -58,11 +73,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-04-14 18:55:24</sys_created_on>
+            <sys_created_on>2017-04-14 19:09:44</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7f8c3e3e4f86320025b0b3728110c7bc</sys_id>
+            <sys_id>4edf32fe4f86320025b0b3728110c707</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_11004_lztest_table</sys_name>
             <sys_package display_value="LZTest" source="x_11004_lztest">52a8f63a4f86320025b0b3728110c754</sys_package>
@@ -71,7 +86,7 @@
             <sys_scope display_value="LZTest">52a8f63a4f86320025b0b3728110c754</sys_scope>
             <sys_update_name>sys_ui_list_x_11004_lztest_table_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-04-14 18:55:24</sys_updated_on>
+            <sys_updated_on>2017-04-14 19:09:44</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

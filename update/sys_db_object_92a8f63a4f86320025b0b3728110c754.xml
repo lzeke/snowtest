@@ -11,7 +11,7 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>LZTest Table</label>
+        <label>Lztest Table</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_11004_lztest_table</name>
         <number_ref/>
@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-14 18:38:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>92a8f63a4f86320025b0b3728110c754</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>LZTest Table</sys_name>

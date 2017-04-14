@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-04-14 18:38:24</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>baa876ba4f86320025b0b3728110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>LZTest Table</sys_name>
