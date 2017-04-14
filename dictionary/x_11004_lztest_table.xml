@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="LZTest Table" max_length="40" name="x_11004_lztest_table" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
         <element choice="1" label="Dept" max_length="40" name="dept" type="choice">
             <choice>
                 <element label="TTS" sequence="100" value="TTS"/>
