@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="LZTest Table" max_length="40" name="x_11004_lztest_table" type="collection"/>
+    <element label="LZTest Table" max_length="40" name="x_11004_lztest_table" type="collection">
+        <element choice="1" label="Dept" max_length="40" name="dept" type="choice">
+            <choice>
+                <element label="TTS" sequence="100" value="TTS"/>
+                <element label="DIVS" sequence="200" value="DIVS"/>
+                <element label="DR" sequence="300" value="DR"/>
+                <element label="AOP" sequence="400" value="AOP"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
 </database>
